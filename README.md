@@ -1,4 +1,4 @@
 gentlerock
 ==========
 
-Multi-platform game library
+Online multi-platform games catalog
